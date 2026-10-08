@@ -1,0 +1,9 @@
+Flask
+flask-cors
+bcrypt
+gunicorn
+twilio
+google-auth
+requests
+python-dotenv
+psycopg2-binary
